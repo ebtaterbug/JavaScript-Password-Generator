@@ -6,4 +6,4 @@ Included in this repository is a random password generator. The application asks
 ## Website URL
 https://ebtaterbug.github.io/JavaScript-Password-Generator/
 
-![](assets/images/screenshot.PNG)
+![](assets/images/Screenshot.PNG)
